@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Shiv",
+      "password": "password"
+    },
+    {
+      "name": "sss",
+      "password": "sds",
+      "id": 2
+    },
+    {
+      "name": "ssssdfgfd",
+      "password": "edfrtgdf",
+      "id": 3
+    },
+    {
+      "name": "Shivam Tripathi",
+      "password": "abc",
+      "id": 4
+    },
+    {
+      "name": "shi",
+      "password": "asd",
+      "id": 5
+    },
+    {
+      "name": null,
+      "password": "",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+.header{
+    width: 100%;
+    height: auto;
+    border: 1px solid green;
+}
+.create{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+}
+.name-holder{
+    border: none;
+    height: 1.5rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+    border: 1px solid lightcoral;
+    padding: 0.2rem;
+}
+.password-create{
+    margin-top: 0.5rem;
+    border: 1px solid lightcoral;
+    border-radius: 5px;
+    height: 1.5rem;
+    padding: 0.2rem;
+}
+.create-button{
+    margin-top: 0.8rem;
+    background-color: aqua;
+    color: black;
+    width: 8rem;
+    border-radius: 5px;
+    border: none;
+    height: 2rem;
+    cursor: pointer;
+}
+.login-button{
+    margin-top: 0.8rem;
+    background-color: aqua;
+    color: black;
+    width: 15rem;
+    border-radius: 5px;
+    border: none;
+    height: 2rem;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: .9rem;
+}
+.exists{
+    color: red;
+    font-size:0.9rem;
+    margin-top: 1rem;
+}
